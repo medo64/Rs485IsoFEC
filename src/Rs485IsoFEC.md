@@ -55,3 +55,9 @@
 |----------|-------:|
 | Voltage  |    5 V |
 | Current  | 210 mA |
+
+
+#### Termination
+
+To remove termination, desolder termination resistor on top of the board (marked
+`TERM`).
